@@ -8,6 +8,7 @@ Author URI : http://www.markups.io/
 
 .mu-featured-slider-single::before,
 #mu-counter:before,
+#mu-inscr:before,
 .mu-filter-item-content,
 .mu-simplefilter li:hover,
 .mu-simplefilter li.active,
@@ -16,6 +17,20 @@ Author URI : http://www.markups.io/
   background: -webkit-linear-gradient(to right, #B06AB3, #ffff00);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #B06AB3, #ffff00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
+
+#mu-inscr{
+	color: #ffffff;
+}
+
+
+.inscr-bottom {
+	position: relative;
+    text-align: center;
+    width: 100%;
+    padding-top: 7px;
+}
+
 
 .mu-heading-title>span,
 .mu-service-icon-box,

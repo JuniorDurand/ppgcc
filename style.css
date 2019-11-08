@@ -1210,6 +1210,38 @@ button:focus {
 
 
 
+
+
+#mu-inscr {
+	background-image: url("assets/images/counter-bg.jpeg");
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: inline;
+	float: left;
+	position: relative;
+	width: 100%;
+}
+
+#mu-inscr:before {
+	bottom: 0;
+	content: '';
+	left: 0;
+	top: 0;
+	right: 0;
+	position: absolute;
+	opacity: 0.84;
+}
+
+
+
+
+
+
+
+
+
+
 /*--------------------*/
 /* FOOTER */
 /*--------------------*/
