@@ -499,7 +499,7 @@ button:focus {
 /*--------------------*/
 
 #mu-counter {
-	background-image: url("assets/images/counter-bg.jpeg");
+	/*background-image: url("assets/images/counter-bg.jpeg");*/
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -892,7 +892,7 @@ button:focus {
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/testimonials-bg.jpeg");
+	/*background-image: url("assets/images/testimonials-bg.jpeg");*/
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -1213,7 +1213,7 @@ button:focus {
 
 
 #mu-inscr {
-	background-image: url("assets/images/counter-bg.jpeg");
+	/*background-image: url("assets/images/counter-bg.jpeg");*/
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
